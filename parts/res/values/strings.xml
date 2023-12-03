@@ -18,12 +18,12 @@
     <!-- Dolby Atmos -->
     <string name="dolby_title">Dolby Atmos</string>
     <string name="dolby_enable">Enable</string>
-    <string name="dolby_summary">Surround sound</string>
+    <string name="dolby_summary">Use Dolby Atmos</string>
     <string name="dolby_preset_title">Choose a preset</string>
     <string name="dolby_profile_title">Choose a profile</string>
 
     <!-- Dolby Atmos: Sound Profiles -->
-    <string name="dolby_profile_dynamic">Dynamic</string>
+    <string name="dolby_profile_dynamic">Smart</string>
     <string name="dolby_profile_music">Music</string>
     <string name="dolby_profile_video">Video</string>
     <string name="dolby_profile_vocal">Voice</string>
@@ -38,4 +38,17 @@
     <string name="dolby_preset_blues">Blues</string>
     <string name="dolby_preset_electronic">Electronic</string>
     <string name="dolby_preset_metal">Metal</string>
+
+    <!-- Dolby Atmos -->
+    <string name="dolby_profile_dynamic">Smart</string>
+    <string name="dolby_off">Off</string>
+    <string name="dolby_on">On</string>
+    <string name="dolby_low">Low</string>
+    <string name="dolby_medium">Medium</string>
+    <string name="dolby_high">High</string>
+    <string name="dolby_on_with_profile">On (%1$s)</string>
+    <string name="dolby_bass_enhancer">Bass Enhancer</string>
+    <string name="dolby_dialogue_enhancer">Dialogue Enhancer</string>
+    <string name="dolby_stereo_widening">Stereo Widening</string>
+    <string name="dolby_category_advanced">Advanced</string>
 </resources>
