@@ -6,6 +6,12 @@ LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_TAGS := optional
 LOCAL_OVERRIDES_PACKAGES := \
     GoogleCamera \
+    DeskClock \
+    Gallery2 \
+    Auxio \
+    ViaBrowser \
+    AudioFX \
+    Aperture \
     MyVerizonServices \
     OBDM_Permissions \
     obdm_stub \
