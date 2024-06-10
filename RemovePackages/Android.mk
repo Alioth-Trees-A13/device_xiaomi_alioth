@@ -6,6 +6,7 @@ LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_TAGS := optional
 LOCAL_OVERRIDES_PACKAGES := \
     AudioFX \
+    Auxio \	
     Eleven \
     Etar \
     Jelly \
@@ -13,9 +14,11 @@ LOCAL_OVERRIDES_PACKAGES := \
     Music \
     Recorder \
     Seedvault \
+    stk \
+    Stk \
     Drive \
     GoogleCamera \
-    Maps \
+    Glimpse \
     MiuiScanner \
     MyVerizonServices \
     OBDM_Permissions \
