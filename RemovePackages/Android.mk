@@ -8,26 +8,32 @@ LOCAL_OVERRIDES_PACKAGES := \
     AudioFX \
     Eleven \
     Etar \
+    ExactCalculator \
     Jelly \
+    stk \
+    Stk \
     MusicFX \
     Music \
     Recorder \
     Seedvault \
     Drive \
+    DeskClock \
     GoogleCamera \
+    Glimpse \
+    Gallery2 \
     Maps \
     MiuiScanner \
+    Matlog \
+    MatLog \
     MyVerizonServices \
     OBDM_Permissions \
     GoogleTTS \
     arcore \
     Videos \
     MaestroPrebuilt \
-    AndroidAutoStubPrebuilt \
     talkback \
     SoundAmplifierPrebuilt \
     DevicePolicyPrebuilt \
-    FilesPrebuilt \
     TrichromeLibrary \
     TrichromeWebView \
     TrichromeChrome \
@@ -39,7 +45,6 @@ LOCAL_OVERRIDES_PACKAGES := \
     ScribePrebuilt \
     Showcase \
     Snap \
-    MusicFX \
     SprintDM \
     SprintHM \
     ViaBrowser \
