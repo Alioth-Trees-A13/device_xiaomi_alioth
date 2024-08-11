@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Clone repositories
-git clone git@github.com:alioth-aosp/device_xiaomi_sm8250-common.git -b 14-stable device/xiaomi/sm8250-common
+git clone git@github.com:Darks-Den-A14/device_xiaomi_sm8250-common.git -b qpr3 device/xiaomi/sm8250-common
 git clone git@github.com:alioth-aosp/vendor_xiaomi_alioth.git -b 14-stable vendor/xiaomi/alioth
 git clone git@github.com:alioth-aosp/vendor_xiaomi_sm8250-common.git -b 14-stable vendor/xiaomi/sm8250-common
 git clone https://github.com/EmanuelCN/kernel_xiaomi_sm8250.git -b staging kernel/xiaomi/sm8250
@@ -17,7 +17,7 @@ git clone git@github.com:Roxor-007/hardware_xiaomi.git hardware/xiaomi
 rm -rf hardware/xiaomi/megvii
 rm -rf system/extras/su
 git clone git@github.com:Roxor-007/packages_resources_devicesettings packages/resources/devicesettings
-git clone https://gitlab.com/Roxor-007/vendor_xiaomi_camera.git vendor/xiaomi/camera
+git clone https://bitbucket.org/eidoron_1/android_vendor_xiaomi_camera.git vendor/xiaomi/camera
 
 # Setup clang and antman
 mkdir -p prebuilts/clang/host/linux-x86/clang-neutron
