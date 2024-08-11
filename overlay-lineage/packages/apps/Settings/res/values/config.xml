@@ -24,4 +24,10 @@
 
     <!-- Whether memory from app_info_settings is available or not. -->
     <bool name="config_show_app_info_settings_memory">true</bool>
+
+    <!-- Whether to show double tap ambient settings -->
+    <bool name="config_supports_double_tap_ambient" translatable="false">true</bool>
+
+    <!-- Whether to show volume steps settings -->
+    <bool name="config_supports_volume_steps" translatable="false">true</bool>
 </resources>
