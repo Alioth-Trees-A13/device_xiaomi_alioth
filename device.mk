@@ -11,7 +11,7 @@ TARGET_IS_VAB := true
 $(call inherit-product, device/xiaomi/sm8250-common/kona.mk)
 
 # Miuicamera
-$(call inherit-product, vendor/xiaomi/camera/miuicamera.mk)
+$(call inherit-product-if-exists, vendor/xiaomi/camera/miuicamera.mk)
 
 PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
